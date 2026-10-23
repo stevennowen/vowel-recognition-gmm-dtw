@@ -1,0 +1,5 @@
+numpy
+scipy
+pandas
+tabulate
+python_speech_features
