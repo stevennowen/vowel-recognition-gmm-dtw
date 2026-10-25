@@ -1,0 +1,7 @@
+speaker,DTW Closed Recordings,DTW Closed Speakers,Gaussian Closed Recordings,Gaussian Closed Speakers,Average
+S1,100.0,100.0,100.0,80.0,95.0
+S2,80.0,80.0,100.0,100.0,90.0
+S3,60.0,,100.0,,80.0
+S4,100.0,100.0,100.0,100.0,100.0
+S5,100.0,100.0,100.0,100.0,100.0
+Average,88.0,95.0,100.0,95.0,93.0
