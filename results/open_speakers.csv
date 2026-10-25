@@ -1,3 +1,7 @@
 speaker,DTW Open Speakers,Gaussian Open Speakers,Average
 Open1,20.0,40.0,30.0
-Average,20.0,40.0,30.0
+Open2,20.0,80.0,50.0
+Open3,40.0,60.0,50.0
+Open4,20.0,80.0,50.0
+Open5,20.0,60.0,40.0
+Average,24.0,64.0,44.0
