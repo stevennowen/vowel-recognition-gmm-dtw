@@ -59,6 +59,11 @@ DTW Template,Closed Speakers,S2_Closed_e.wav,S2,e,e,True
 DTW Template,Closed Speakers,S2_Closed_i.wav,S2,i,i,True
 DTW Template,Closed Speakers,S2_Closed_o.wav,S2,o,u,False
 DTW Template,Closed Speakers,S2_Closed_u.wav,S2,u,u,True
+DTW Template,Closed Speakers,S3_Closed_a.wav,S3,a,a,True
+DTW Template,Closed Speakers,S3_Closed_e.wav,S3,e,a,False
+DTW Template,Closed Speakers,S3_Closed_i.wav,S3,i,a,False
+DTW Template,Closed Speakers,S3_Closed_o.wav,S3,o,a,False
+DTW Template,Closed Speakers,S3_Closed_u.wav,S3,u,a,False
 DTW Template,Closed Speakers,S4_Closed_a.wav,S4,a,a,True
 DTW Template,Closed Speakers,S4_Closed_e.wav,S4,e,e,True
 DTW Template,Closed Speakers,S4_Closed_i.wav,S4,i,i,True
@@ -79,6 +84,11 @@ Model Gaussian,Closed Speakers,S2_Closed_e.wav,S2,e,e,True
 Model Gaussian,Closed Speakers,S2_Closed_i.wav,S2,i,i,True
 Model Gaussian,Closed Speakers,S2_Closed_o.wav,S2,o,o,True
 Model Gaussian,Closed Speakers,S2_Closed_u.wav,S2,u,u,True
+Model Gaussian,Closed Speakers,S3_Closed_a.wav,S3,a,a,True
+Model Gaussian,Closed Speakers,S3_Closed_e.wav,S3,e,e,True
+Model Gaussian,Closed Speakers,S3_Closed_i.wav,S3,i,i,True
+Model Gaussian,Closed Speakers,S3_Closed_o.wav,S3,o,o,True
+Model Gaussian,Closed Speakers,S3_Closed_u.wav,S3,u,u,True
 Model Gaussian,Closed Speakers,S4_Closed_a.wav,S4,a,a,True
 Model Gaussian,Closed Speakers,S4_Closed_e.wav,S4,e,e,True
 Model Gaussian,Closed Speakers,S4_Closed_i.wav,S4,i,i,True
