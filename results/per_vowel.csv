@@ -1,0 +1,7 @@
+vowel,DTW Closed Recordings,DTW Closed Speakers,DTW Open Speakers,Gaussian Closed Recordings,Gaussian Closed Speakers,Gaussian Open Speakers,Average
+a,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+i,100.0,80.0,0.0,100.0,100.0,100.0,80.0
+u,100.0,80.0,0.0,100.0,80.0,40.0,66.66666666666667
+e,80.0,80.0,20.0,100.0,100.0,20.0,66.66666666666667
+o,60.0,60.0,0.0,100.0,100.0,60.0,63.333333333333336
+Average,88.0,80.0,24.0,100.0,96.0,64.0,75.33333333333334

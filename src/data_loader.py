@@ -46,10 +46,14 @@ def trim_silence(signal, sr=SAMPLE_RATE):
 
 
 def parse_name(path):
-    speaker, vowel = Path(path).stem.rsplit("_", 1)
-    vowel = vowel.lower()
+    stem = Path(path).stem
+    parts = stem.split("_")
+    vowel = parts[-1].lower()
     if vowel not in VOWELS:
         raise ValueError(f"Nama file {Path(path).name} tidak sesuai format <speaker>_<vowel>.wav")
+
+    speaker_parts = [p for p in parts[:-1] if p.lower() not in ("template", "closed", "train", "test")]
+    speaker = "_".join(speaker_parts) if speaker_parts else parts[0]
     return speaker, vowel
 
 

@@ -26,6 +26,7 @@ def summary_table(df):
 def vowel_table(df):
     table = accuracy_pivot(df, "vowel")
     table = table.reindex([vowel for vowel in VOWELS if vowel in table.index])
+    table["Average"] = table.mean(axis=1)
     table.loc["Average"] = table.mean()
     return table
 
