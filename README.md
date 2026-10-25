@@ -135,3 +135,13 @@ Model dengan cost terkecil dipilih sebagai hasil prediksi.
 ```
 Akurasi = jumlah prediksi benar / jumlah seluruh data uji x 100%
 ```
+
+## Anggota Kelompok
+
+| Nama | NIM |
+| :--- | :--- |
+| William Andrian Dharma T | 13523006 |
+| Rafen Max Alessandro | 13523031 |
+| Karol Yangqian Poetracahya | 13523093 |
+| Steven Owen Liauw | 13523103 |
+| Leonard Arif Sutiono | 18223120 |
